@@ -1,0 +1,14 @@
+{
+  "title": "Yoga for Elders",
+  "description": "Low-impact yoga session focused on joint mobility and balance.",
+  "duration_minutes": 30,
+  "category": "Senior Wellness",
+  "steps": [
+    { "time": "0-10 min", "activity": "Chair-assisted breathing and neck stretches" },
+    { "time": "10-20 min", "activity": "Gentle spinal movements and shoulder rolls" },
+    { "time": "20-30 min", "activity": "Guided meditation with deep breathing" }
+  ],
+  "benefits": ["Improves mobility", "Supports joint health", "Promotes calmness"],
+  "level": "Gentle",
+  "created_by": "Senior Wellness Coach"
+}
