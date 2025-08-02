@@ -1,0 +1,14 @@
+{
+  "title": "Yoga for Children",
+  "description": "Fun and simple yoga poses tailored for young kids.",
+  "duration_minutes": 20,
+  "category": "Kids Yoga",
+  "steps": [
+    { "time": "0-5 min", "activity": "Animal breathing and stretching" },
+    { "time": "5-15 min", "activity": "Tree pose, Cobra pose, and Butterfly pose" },
+    { "time": "15-20 min", "activity": "Guided storytelling relaxation" }
+  ],
+  "benefits": ["Improves focus", "Enhances flexibility", "Boosts confidence"],
+  "level": "Beginner",
+  "created_by": "Child Wellness Coach"
+}
