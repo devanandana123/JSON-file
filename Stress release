@@ -1,0 +1,14 @@
+{
+  "title": "Stress Release Flow",
+  "description": "A gentle yoga session designed to ease tension and reduce stress.",
+  "duration_minutes": 25,
+  "category": "Yoga & Relaxation",
+  "steps": [
+    { "time": "0-5 min", "activity": "Deep breathing and grounding" },
+    { "time": "5-15 min", "activity": "Flow through Cat-Cow, Forward Fold, and Downward Dog" },
+    { "time": "15-25 min", "activity": "Seated twist, Legs up the wall, and Savasana" }
+  ],
+  "benefits": ["Relieves stress", "Improves breathing", "Promotes relaxation"],
+  "level": "All Levels",
+  "created_by": "Wellness Coach"
+}
