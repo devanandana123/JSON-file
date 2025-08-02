@@ -1,0 +1,14 @@
+{
+  "title": "Meditation for Adults",
+  "description": "Mindfulness meditation to unwind and restore mental clarity.",
+  "duration_minutes": 25,
+  "category": "Meditation",
+  "steps": [
+    { "time": "0-5 min", "activity": "Settling and posture setup" },
+    { "time": "5-20 min", "activity": "Mindful breathing and silence" },
+    { "time": "20-25 min", "activity": "Closing reflections" }
+  ],
+  "benefits": ["Enhances awareness", "Improves concentration", "Reduces stress"],
+  "level": "All Levels",
+  "created_by": "Mindfulness Guide"
+}
