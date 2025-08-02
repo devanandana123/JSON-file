@@ -1,0 +1,15 @@
+{
+  "title": "Morning Yoga & Meditation",
+  "description": "A calming 30-minute session to boost mindfulness and flexibility.",
+  "duration_minutes": 30,
+  "category": "Yoga & Meditation",
+  "steps": [
+    { "time": "0-5 min", "activity": "Breath awareness and light stretching" },
+    { "time": "5-15 min", "activity": "Sun Salutations (Surya Namaskar)" },
+    { "time": "15-25 min", "activity": "Seated poses (Spine twist, Butterfly)" },
+    { "time": "25-30 min", "activity": "Guided meditation" }
+  ],
+  "benefits": ["Reduces stress", "Improves flexibility", "Enhances clarity"],
+  "level": "Beginner",
+  "created_by": "Wellness Coach"
+}
